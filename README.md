@@ -56,7 +56,7 @@ ORDER BY Avg_delivery_time DESC;
 ---
 
 ### Top 5 Fastest Delivery Partners
-```sql
+
 SELECT TOP 5
     Delivery_person_ID,
     AVG (delivery_time) AS Avg_time
