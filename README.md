@@ -44,7 +44,7 @@ FROM orders_clean;
 ---
 
 ### Traffic vs Delivery Time
-```sql
+
 SELECT 
     Road_traffic_density,
     AVG(delivery_time) AS Avg_delivery_time,
