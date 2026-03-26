@@ -70,3 +70,26 @@ SELECT TOP 5
 FROM orders_clean
 GROUP BY Delivery_person_ID
 ORDER BY Avg_time;
+---
+🛠 Tools & Skills
+SQL
+Data Analysis
+KPI Metrics
+Performance Optimization
+
+---
+
+📈 Key Insights
+High-rated delivery partners consistently perform better
+Traffic is a major factor affecting delivery delays
+Identifying top performers helps in incentive planning
+
+---
+
+✅ Conclusion
+This analysis helps improve delivery efficiency, optimize routes, and design better reward systems for delivery partners.
+
+## 💡 Business Impact
+- Helps companies identify and reward top-performing delivery partners  
+- Enables better route planning using traffic insights  
+- Improves delivery time prediction and customer satisfaction  
