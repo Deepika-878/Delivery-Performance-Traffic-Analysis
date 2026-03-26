@@ -2,6 +2,13 @@
 
 ## 📊 Project Overview
 This project analyzes delivery operations using a dataset of **45,000+ delivery partners**, focusing on performance, efficiency, and traffic impact.
+## 📂 Dataset
+- Dataset contains delivery order details including:
+  - Delivery partner ID
+  - Ratings
+  - Delivery time
+  - Traffic density
+- Total records: **45,000+**
 ---
 ## 🎯 Business Problem
 Understanding factors affecting delivery time and identifying high-performing delivery partners to improve operational efficiency.
