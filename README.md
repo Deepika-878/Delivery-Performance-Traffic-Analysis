@@ -1,4 +1,5 @@
 # 🚚 Delivery Performance & Traffic Analysis
+🚀 End-to-end SQL analysis on delivery efficiency, traffic impact, and performance optimization
 
 ## 📊 Project Overview
 This project analyzes delivery operations using a dataset of **45,000+ delivery partners**, focusing on performance, efficiency, and traffic impact.
